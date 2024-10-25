@@ -1,1 +1,2 @@
 # Project-full-PDFs
+After finishing the work on a given project, every scientist prepares a fully detailed explanation of the activities performed during the project execution. In this repository I include full-text reports for some of my personal scientific projects. Althought I do not attach any source code, I will mention that I used MATLAB for the numerical experiments and LaTeX for the scientific layout of the documents.  
